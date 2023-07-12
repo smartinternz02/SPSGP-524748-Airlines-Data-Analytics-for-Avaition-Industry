@@ -1,7 +1,7 @@
 # AirStats_Analysis
 SmartBridge Data Analysis Externship Project
 Link For Dashboard:
-https://public.tableau.com/views/AirStats_Dashboards_16883936398190/RepresentationOfFlightCountByCategories-continentsandcountries?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AirStats_DashboardsandStories/RepresentationOfFlightCountByCategories-continentsandcountries?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Directions:
 1. Download to WebInt file.
